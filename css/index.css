@@ -1,0 +1,59 @@
+body{
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+
+/* ***page Header*** */
+header{
+    width: 100%;
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    color: crimson;
+}
+#form-div{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 2%;
+    padding-top: 1%;
+    background-color: lightgray;
+}
+#form-div h3{
+    width: 100%;
+    text-align: center;
+}
+.form-field-class{
+    width: 80%;
+    font-size: 20px;
+    border: solid 2px lightgray;
+    margin: 1%;
+    margin-left: 10%;
+}
+#gender-div{
+    width: 80%;
+    text-align: center;
+    margin-left: 10%;
+}
+
+.form-btn-class{
+    width: 20%;
+    margin-left: 45%;
+    margin-bottom: 1%;
+    font-size: 22px;
+    font-weight: bold;
+}
+#ref_id{
+    margin: 1%;
+    margin-left: 10%;
+    font-size: 20px;
+    border: solid 2px lightgray;
+    
+}
+
+/************home page styling*************/
+
+#success-alert{
+    width: 100%;
+    text-align: center;
+}
