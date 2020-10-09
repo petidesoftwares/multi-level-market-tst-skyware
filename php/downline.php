@@ -1,5 +1,5 @@
 <?php
-require('multilevel-market/connection.php');
+require('connection.php');
 $conn = Connect_DB::createConnection();
 if($conn){
     $db_select = Connect_DB::selectDB($conn);
